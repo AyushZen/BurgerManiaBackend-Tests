@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_BurgerManiaBackend.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ee276cb549c297cff2fc6fe25f40fdab0167b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_BurgerManiaBackend.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_BurgerManiaBackend.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
